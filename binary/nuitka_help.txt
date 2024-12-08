@@ -1,0 +1,5 @@
+--windows-console-mode=disable
+--enable-plugin=tk-inter
+--windows-icon-from-ico=icon.png
+--onefile
+main.py
